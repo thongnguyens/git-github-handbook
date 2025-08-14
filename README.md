@@ -359,5 +359,7 @@ git config --global alias.last "log -1 HEAD"
 ---
 
 ## Giấy phép
-Nội dung tài liệu phát hành theo **MIT License** (tùy chỉnh theo repo).
+Phát hành theo **MIT License** — xem [LICENSE](./LICENSE).  
+
+> Nội dung & tên thương hiệu của bên thứ ba giữ nguyên giấy phép và quyền sở hữu tương ứng.
 
