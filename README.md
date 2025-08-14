@@ -5,7 +5,7 @@
 ---
 
 ## Mục lục
-- [1) TL;DR](#1-tldr)
+- [1) Chuẩn bị nhanh](#1-chuẩn-bị-nhanh)
 - [2) Cài đặt & cấu hình Git](#2-cài-đặt--cấu-hình-git)
 - [3) Kết nối GitHub (SSH & ký commit)](#3-kết-nối-github-ssh--ký-commit)
 - [4) Tạo repo & đồng bộ với GitHub](#4-tạo-repo--đồng-bộ-với-github)
@@ -24,7 +24,7 @@
 
 ---
 
-## 1) TL;DR
+## 1) Chuẩn bị nhanh
 ```bash
 # Đặt nhánh mặc định là main (Git >= 2.28)
 git config --global init.defaultBranch main
