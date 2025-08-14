@@ -1,4 +1,4 @@
-# Git & GitHub — Hướng dẫn sử dụng chi tiết (v2)
+# Git & GitHub — Hướng Dẫn Sử Dụng Chi TiếtTiết
 
 > Cẩm nang thực chiến cho cá nhân & nhóm: cài đặt và cấu hình Git, SSH/GPG/SSH-signing, GitHub Flow (branch/PR), GitHub CLI, Branch protection & CODEOWNERS, Git LFS, rebase/cherry-pick/stash/revert/bisect, Actions & Secrets, `.gitignore`/`.gitattributes`, cùng xử lý lỗi phổ biến.
 
